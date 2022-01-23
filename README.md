@@ -5,7 +5,7 @@ Our Final Project for       -->       Information Visualization Course,
 			                                Ben-Gurion University of the Negev.
 
 
-Name of Lecture             -->       Gilad Ravid
+Name of Lecture             -->       Prof. Gilad Ravid
 
 
 Name of Submitters          -->       Itay Shalom & Adi Hanan 
